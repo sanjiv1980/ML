@@ -1,0 +1,22 @@
+-DOCSTART- -X- -X- O
+
+My NN NN O
+name NN NN O
+is NN NN O
+Ashok NN NN I-Name
+kumar NN NN B-Name
+; NN NN O
+
+My NN NN O
+name NN NN O
+is NN NN O
+Sanjiv NN NN I-Name
+kumar NN NN B-Name
+; NN NN O
+
+My NN NN O
+name NN NN O
+is NN NN O
+kumar NN NN I-Name
+saurav NN NN B-Name
+; NN NN O
